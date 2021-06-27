@@ -1,11 +1,11 @@
 # AlgoritmorED
-titulo
-##PRUEBA DE GIT Y GITHUB
-subtitulo
-###SUBS
-**pRUEBA DE GIT HUB EN NEGRITA**
-*Prueba  de github en coursiva*
-***Prueba de github en negrit y coursiva***
+- titulo
+- ##PRUEBA DE GIT Y GITHUB
+-subtitulo
+-###SUBS
+-**pRUEBA DE GIT HUB EN NEGRITA**
+-*Prueba  de github en coursiva*
+-***Prueba de github en negrit y coursiva***
 
 esa infomracion  fue citada de:
 >Codigo por internet
